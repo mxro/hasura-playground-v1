@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/mxro/hasura-playground-v1#readme",
   "devDependencies": {
-    "hasura-cli": "^1.2.1"
+    "hasura-cli": "^2.29.1"
   }
 }
